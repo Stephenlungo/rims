@@ -1,0 +1,35 @@
+.general_menu_holder{
+	width:100%;
+	height:30px;
+	line-height:30px;
+	float:left;
+	background-color:#eee;
+	margin-top:1px;
+}
+
+.general_holder{
+	width:100%;
+	height:auto;
+	float:left;
+	margin-top:1px;
+}
+
+.tab{
+	width:120px;
+	height:30px;
+	float:left;
+	border-right:solid 1px #ddd;
+	text-align:center;
+	cursor:pointer;
+}
+
+.page_title{
+	width:100%;
+	height:20px;
+	float:left;
+	background-color:#006bb3;
+	text-align:center;
+	color:#fff;
+	
+}
+

@@ -1,0 +1,1 @@
+<div style="width:100%;height:40px;line-height:40px;float:left;margin-top:50px;text-align:center;font-size:1.2em;color:#888">Feature not installed. Contact systems administrator</div>
